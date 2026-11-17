@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://dahmanclinics.github.io/sitemap.xml
